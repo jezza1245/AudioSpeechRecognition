@@ -1,0 +1,6 @@
+$word = alex | alice | brett | ebtesam | george | hao | jack | james | julien | kevin | luzhang | matt | matthew | max | mazvydas | peter | rory | ruari | sevkan | thomas | sil ;
+
+( <[sil] $word >  [sil])
+
+
+

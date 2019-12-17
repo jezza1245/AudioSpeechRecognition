@@ -1,0 +1,11 @@
+MFCCs/train/speech001.f
+MFCCs/train/speech003.f
+MFCCs/train/speech005.f
+MFCCs/train/speech007.f
+MFCCs/train/speech009.f
+MFCCs/train/speech011.f
+MFCCs/train/speech013.f
+MFCCs/train/speech015.f
+MFCCs/train/speech017.f
+MFCCs/train/speech019.f
+MFCCs/train/speech021.f

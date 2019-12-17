@@ -1,0 +1,117 @@
+VERSION=1.0
+N=26   L=89   
+I=0    W=sil                 
+I=1    W=sil                 
+I=2    W=!NULL               
+I=3    W=thomas              
+I=4    W=sevkan              
+I=5    W=ruari               
+I=6    W=rory                
+I=7    W=peter               
+I=8    W=mazvydas            
+I=9    W=max                 
+I=10   W=matthew             
+I=11   W=matt                
+I=12   W=luzhang             
+I=13   W=kevin               
+I=14   W=julien              
+I=15   W=james               
+I=16   W=jack                
+I=17   W=hao                 
+I=18   W=george              
+I=19   W=ebtesam             
+I=20   W=brett               
+I=21   W=alice               
+I=22   W=alex                
+I=23   W=sil                 
+I=24   W=!NULL               
+I=25   W=!NULL               
+J=0     S=2    E=0    
+J=1     S=2    E=1    
+J=2     S=23   E=1    
+J=3     S=25   E=1    
+J=4     S=1    E=2    
+J=5     S=3    E=2    
+J=6     S=4    E=2    
+J=7     S=5    E=2    
+J=8     S=6    E=2    
+J=9     S=7    E=2    
+J=10    S=8    E=2    
+J=11    S=9    E=2    
+J=12    S=10   E=2    
+J=13    S=11   E=2    
+J=14    S=12   E=2    
+J=15    S=13   E=2    
+J=16    S=14   E=2    
+J=17    S=15   E=2    
+J=18    S=16   E=2    
+J=19    S=17   E=2    
+J=20    S=18   E=2    
+J=21    S=19   E=2    
+J=22    S=20   E=2    
+J=23    S=21   E=2    
+J=24    S=22   E=2    
+J=25    S=2    E=3    
+J=26    S=23   E=3    
+J=27    S=25   E=3    
+J=28    S=2    E=4    
+J=29    S=23   E=4    
+J=30    S=25   E=4    
+J=31    S=2    E=5    
+J=32    S=23   E=5    
+J=33    S=25   E=5    
+J=34    S=2    E=6    
+J=35    S=23   E=6    
+J=36    S=25   E=6    
+J=37    S=2    E=7    
+J=38    S=23   E=7    
+J=39    S=25   E=7    
+J=40    S=2    E=8    
+J=41    S=23   E=8    
+J=42    S=25   E=8    
+J=43    S=2    E=9    
+J=44    S=23   E=9    
+J=45    S=25   E=9    
+J=46    S=2    E=10   
+J=47    S=23   E=10   
+J=48    S=25   E=10   
+J=49    S=2    E=11   
+J=50    S=23   E=11   
+J=51    S=25   E=11   
+J=52    S=2    E=12   
+J=53    S=23   E=12   
+J=54    S=25   E=12   
+J=55    S=2    E=13   
+J=56    S=23   E=13   
+J=57    S=25   E=13   
+J=58    S=2    E=14   
+J=59    S=23   E=14   
+J=60    S=25   E=14   
+J=61    S=2    E=15   
+J=62    S=23   E=15   
+J=63    S=25   E=15   
+J=64    S=2    E=16   
+J=65    S=23   E=16   
+J=66    S=25   E=16   
+J=67    S=2    E=17   
+J=68    S=23   E=17   
+J=69    S=25   E=17   
+J=70    S=2    E=18   
+J=71    S=23   E=18   
+J=72    S=25   E=18   
+J=73    S=2    E=19   
+J=74    S=23   E=19   
+J=75    S=25   E=19   
+J=76    S=2    E=20   
+J=77    S=23   E=20   
+J=78    S=25   E=20   
+J=79    S=2    E=21   
+J=80    S=23   E=21   
+J=81    S=25   E=21   
+J=82    S=2    E=22   
+J=83    S=23   E=22   
+J=84    S=25   E=22   
+J=85    S=2    E=23   
+J=86    S=25   E=23   
+J=87    S=0    E=24   
+J=88    S=2    E=24   

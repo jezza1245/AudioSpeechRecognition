@@ -1,0 +1,34 @@
+<BeginHMM>
+<NumStates> 6 <VecSize> 5 <USER> <nullD> <diagC>
+<State> 2 <NumMixes> 1
+<Mixture> 1 1.0
+<Mean> 5
+0.0 0.0 0.0 0.0 0.0  
+<Variance> 5
+1.0 1.0 1.0 1.0 1.0  
+<State> 3 <NumMixes> 1
+<Mixture> 1 1.0
+<Mean> 5
+0.0 0.0 0.0 0.0 0.0  
+<Variance> 5
+1.0 1.0 1.0 1.0 1.0  
+<State> 4 <NumMixes> 1
+<Mixture> 1 1.0
+<Mean> 5
+0.0 0.0 0.0 0.0 0.0  
+<Variance> 5
+1.0 1.0 1.0 1.0 1.0  
+<State> 5 <NumMixes> 1
+<Mixture> 1 1.0
+<Mean> 5
+0.0 0.0 0.0 0.0 0.0  
+<Variance> 5
+1.0 1.0 1.0 1.0 1.0  
+<TransP> 6
+	0.0	1.0	0.0	0.0	0.0	0.0
+	0.0	0.6	0.4	0.0	0.0	0.0
+	0.0	0.0	0.6	0.4	0.0	0.0
+	0.0	0.0	0.0	0.6	0.4	0.0
+	0.0	0.0	0.0	0.0	0.9	0.1
+	0.0	0.0	0.0	0.0	0.0	0.0
+<EndHMM> 

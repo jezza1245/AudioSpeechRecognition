@@ -1,0 +1,11 @@
+MFCCs/test/speech002.f
+MFCCs/test/speech004.f
+MFCCs/test/speech006.f
+MFCCs/test/speech008.f
+MFCCs/test/speech010.f
+MFCCs/test/speech012.f
+MFCCs/test/speech014.f
+MFCCs/test/speech016.f
+MFCCs/test/speech018.f
+MFCCs/test/speech020.f
+MFCCs/test/speech022.f
